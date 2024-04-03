@@ -796,7 +796,10 @@ transform: rotate(-180deg);
     .footer .box .line .info span {
     display: block;
     }
-    
+    .footer .ziad {
+        margin-top: 40px;
+    }
+
     .footer .copyright {
     padding: 25px 0;
     text-align: center;
